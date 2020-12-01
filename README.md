@@ -13,7 +13,7 @@ Ver el proyecto en [jsm-jest](https://miguelarriola.github.io/jsm-jest/)
 - HTML
 - CSS
 - JavaScript
-- [JSON Server](https://github.com/typicode/json-server)
+- [Jest](https://jestjs.io/)
 - [Plantilla README-español.md](https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a)
 - [GitHub Pages](https://pages.github.com/)
 
